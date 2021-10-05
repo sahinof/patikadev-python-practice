@@ -12,6 +12,7 @@ array: [7, 5, 1, 8, 3, 6, 0, 9, 4, 2]
 - 3 roottan küçük, 5'ten küçük, 1'den büyük, 1'in sagina...
 
 ```
+
 	     7
        /   \
      5       8
